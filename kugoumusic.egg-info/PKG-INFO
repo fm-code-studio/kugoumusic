@@ -1,6 +1,6 @@
-Metadata-Version: 2.4
+Metadata-Version: 2.1
 Name: kugoumusic
-Version: 0.1.0
+Version: 0.1.1
 Summary: 酷狗音乐调用
 Author: fm-studio
 Classifier: Programming Language :: Python :: 3
@@ -9,13 +9,6 @@ Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 Requires-Dist: pyautogui
-Dynamic: author
-Dynamic: classifier
-Dynamic: description
-Dynamic: description-content-type
-Dynamic: requires-dist
-Dynamic: requires-python
-Dynamic: summary
 
 
 '播放/暂停Alt +`',
