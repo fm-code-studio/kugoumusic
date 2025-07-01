@@ -1,0 +1,35 @@
+Metadata-Version: 2.4
+Name: kugoumusic
+Version: 0.1.0
+Summary: 酷狗音乐调用
+Author: fm-studio
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: pyautogui
+Dynamic: author
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+
+'播放/暂停Alt +`',
+'上一首Alt + Left',
+'下一首Alt + Right',
+'快进Ctrl + Shift + Right',
+'快退Ctrl + Shift + Left',
+'增大音量Alt + Up',
+'减少音量Alt + Down',
+'静音Ctrl + Alt + S',
+'显示/隐藏桌面歌词Ctrl + Alt + D',
+'锁定/解锁桌面歌词Ctrl + Alt + E',
+'下载Ctrl + Alt + X',
+'收藏Ctrl + Alt + L',
+'听歌识曲Shift + Alt +Z',
+'打开弹出快捷键提示窗口',
+'启用全局快捷键',

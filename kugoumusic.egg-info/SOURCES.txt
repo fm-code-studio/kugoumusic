@@ -1,0 +1,10 @@
+README.md
+setup.py
+kugoumusic/__init__.py
+kugoumusic/kugoumusic.py
+kugoumusic.egg-info/PKG-INFO
+kugoumusic.egg-info/SOURCES.txt
+kugoumusic.egg-info/dependency_links.txt
+kugoumusic.egg-info/requires.txt
+kugoumusic.egg-info/top_level.txt
+tests/test_module1.py
