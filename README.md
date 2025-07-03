@@ -1,4 +1,6 @@
 
+使用方式pip install kugoumusic-版本号-py3-none-any.whl
+
 '播放/暂停Alt +`',
 '上一首Alt + Left',
 '下一首Alt + Right',
