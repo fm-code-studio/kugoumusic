@@ -4,7 +4,7 @@ def kugoumusic(name,state,function):
     if name == 'end':
         pass
     else:
-        print('正在播放：'+name)
+        print(name)
     if state == 'play':
         pyautogui.hotkey('alt', '`')#播放
     elif state == 'pause':
